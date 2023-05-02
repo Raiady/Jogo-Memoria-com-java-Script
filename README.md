@@ -1,4 +1,4 @@
-# Jogo-Memoria-com-java-Script
+:video_game: # Jogo-Memoria-com-java-Script :1st_place_medal:
 Realizado como projeto a criação de um jogo da memoria utilizando HTML,CSS e Java Script :hourglass_flowing_sand:
 
 
